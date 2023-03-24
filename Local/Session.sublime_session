@@ -1,0 +1,617 @@
+{
+	"file_history":
+	[
+		"/home/vibhu/.config/sublime-text/Packages/User/Default (Linux).sublime-keymap",
+		"/home/vibhu/.config/sublime-text/Packages/Default/Default (Linux).sublime-keymap",
+		"/mnt/Local_Disk_F/Competitive-Programming/AlgoZenith/Module 1 Week 2/Consecutive One.cpp",
+		"/home/vibhu/.config/sublime-text/Packages/User/default_layout.py",
+		"/mnt/Local_Disk_F/Competitive-Programming/AlgoZenith/Module 1 Week 2/output.txt",
+		"/mnt/Local_Disk_F/Competitive-Programming/Competitive Programming/output.txt",
+		"/mnt/Local_Disk_F/Competitive-Programming/Competitive Programming/input.txt",
+		"/mnt/Local_Disk_F/Competitive-Programming/Competitive Programming/A2.cpp",
+		"/mnt/Local_Disk_F/Competitive-Programming/Competitive Programming/A.cpp",
+		"/home/vibhu/.config/sublime-text/Packages/User/C++14_CP.sublime-build",
+		"/home/vibhu/.config/sublime-text/Packages/Terminus/Default.sublime-keymap",
+		"/home/vibhu/.config/sublime-text/Packages/Terminus/Default.sublime-commands",
+		"/home/vibhu/.config/sublime-text/Packages/User/Default.sublime-commands",
+		"/home/vibhu/.config/sublime-text/Packages/Default (Linux).sublime-keymap",
+		"/mnt/Local_Disk_F/Competitive-Programming/DSA/Dynamic Programming/output.txt",
+		"/mnt/Local_Disk_F/Competitive-Programming/DSA/Dynamic Programming/input.txt",
+		"/mnt/Local_Disk_F/Competitive-Programming/DSA/Dynamic Programming/Subset Sum.cpp",
+		"/mnt/Local_Disk_F/Competitive-Programming/DSA/Dynamic Programming/Knapsack.cpp",
+		"/mnt/Local_Disk_F/Competitive-Programming/DSA/Dynamic Programming/Equal Partition.cpp",
+		"/home/vibhu/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+		"/home/vibhu/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+		"/home/vibhu/.config/sublime-text/Packages/User/base_az.sublime-snippet",
+		"/home/vibhu/.config/sublime-text/Packages/User/advanced_algozenith.sublime-snippet",
+		"/mnt/Local_Disk_F/Competitive-Programming/AlgoZenith/input.txt",
+		"/mnt/Local_Disk_F/Competitive-Programming/AlgoZenith/output.txt",
+		"/mnt/Local_Disk_F/Competitive-Programming/AlgoZenith/A.cpp",
+		"/home/vibhu/.config/sublime-text/Packages/User/Package Control.sublime-settings",
+		"/home/vibhu/.config/sublime-text/Packages/User/CPP.sublime-build",
+		"/mnt/Local_Disk_F/Competitive-Programming/AlgoZenith/output.tx",
+		"/mnt/Local_Disk_F/Competitive-Programming/AlgoZenith/Module 0/Mixed Practice/Distinct Characters.cpp",
+		"/mnt/Local_Disk_F/Competitive-Programming/AlgoZenith/Module 0/Mixed Practice/Concatenate Array.cpp",
+		"/home/vibhu/.config/sublime-text/Packages/Theme - Spacegray/Spacegray Oceanic.sublime-theme",
+		"/home/vibhu/.config/sublime-text/Packages/User/Spacegray Oceanic.sublime-theme",
+		"/home/vibhu/.config/sublime-text/Packages/Agila Theme/Agila Dracula.sublime-theme",
+		"/home/vibhu/.config/sublime-text/Packages/User/Agila Dracula.sublime-theme",
+		"/home/vibhu/.config/sublime-text/Packages/Theme - Default/Default.sublime-theme",
+		"/home/vibhu/.config/sublime-text/Packages/User/Default.sublime-theme"
+	],
+	"folder_history":
+	[
+		"/mnt/Local_Disk_F/Competitive-Programming/Competitive Programming",
+		"/mnt/Local_Disk_F/Competitive-Programming"
+	],
+	"last_version": 4143,
+	"last_window_id": 27,
+	"log_indexing": false,
+	"next_update_check": 1679159977,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 0.0,
+		"new_window_maximized": true,
+		"new_window_position":
+		[
+			1920.0,
+			58.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"keyb",
+						"Preferences: Key Bindings"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"settings",
+						"Preferences: Settings"
+					],
+					[
+						"prefere",
+						"Preferences: Settings"
+					],
+					[
+						"install pack",
+						"Package Control: Install Package"
+					],
+					[
+						"selec theme",
+						"UI: Select Theme"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 198.0,
+				"history":
+				[
+					"sublime.exit()",
+					"exit()",
+					"exit",
+					"sublime.log_input(True)",
+					"sublime.log_commands(True)",
+					"sublime.log(True)",
+					"build",
+					"ls",
+					"echo \"\"",
+					"echo"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/mnt/Local_Disk_F/Competitive-Programming/AlgoZenith/Module 1 Week 2/Consecutive One.cpp",
+				"/home/vibhu/.config/sublime-text/Packages/User/default_layout.py",
+				"/home/vibhu/.config/sublime-text/Packages/User/C++14_CP.sublime-build",
+				"/mnt/Local_Disk_F/Competitive-Programming/Competitive Programming/A.cpp",
+				"/mnt/Local_Disk_F/Competitive-Programming/Competitive Programming/A2.cpp",
+				"/mnt/Local_Disk_F/Competitive-Programming/Competitive Programming/output.txt",
+				"/mnt/Local_Disk_F/Competitive-Programming/Competitive Programming/input.txt",
+				"/mnt/Local_Disk_F/Competitive-Programming/DSA/Dynamic Programming/output.txt",
+				"/mnt/Local_Disk_F/Competitive-Programming/DSA/Dynamic Programming/input.txt",
+				"/mnt/Local_Disk_F/Competitive-Programming/DSA/Dynamic Programming/Subset Sum.cpp",
+				"/mnt/Local_Disk_F/Competitive-Programming/DSA/Dynamic Programming/Knapsack.cpp",
+				"/mnt/Local_Disk_F/Competitive-Programming/DSA/Dynamic Programming/Equal Partition.cpp",
+				"/home/vibhu/.config/sublime-text/Packages/User/base_az.sublime-snippet",
+				"/home/vibhu/.config/sublime-text/Packages/User/advanced_algozenith.sublime-snippet",
+				"/mnt/Local_Disk_F/Competitive-Programming/AlgoZenith/input.txt",
+				"/mnt/Local_Disk_F/Competitive-Programming/AlgoZenith/output.txt",
+				"/mnt/Local_Disk_F/Competitive-Programming/AlgoZenith/A.cpp",
+				"/home/vibhu/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+				"/home/vibhu/.config/sublime-text/Packages/User/Package Control.sublime-settings",
+				"/home/vibhu/.config/sublime-text/Packages/User/CPP.sublime-build",
+				"/mnt/Local_Disk_F/Competitive-Programming/AlgoZenith/output.tx",
+				"/mnt/Local_Disk_F/Competitive-Programming/AlgoZenith/Module 0/Mixed Practice/Distinct Characters.cpp",
+				"/mnt/Local_Disk_F/Competitive-Programming/AlgoZenith/Module 0/Mixed Practice/Concatenate Array.cpp"
+			],
+			"find":
+			{
+				"height": 39.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"int"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"ll"
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 39.0
+			},
+			"input":
+			{
+				"height": 43.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 126.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/C++14_CP.sublime-build",
+			"replace":
+			{
+				"height": 74.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 285.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/mnt/Local_Disk_F/Competitive-Programming/AlgoZenith/Module 1 Week 2/input.txt",
+					"settings":
+					{
+						"buffer_size": 126,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							5,
+							1,
+							"",
+							null,
+							"AgAAAAAAAAAAAAAAfgAAAAAAAAAAAAAAfgAAAAAAAAB+AAAAAAAAABkAAAAxCjYgNAoxIDIgNSAzIDIgMQoxCjIKNQoz",
+							"BwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAZAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/mnt/Local_Disk_F/Competitive-Programming/AlgoZenith/Module 1 Week 2/output.txt",
+					"settings":
+					{
+						"buffer_size": 11,
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"keyb",
+						"Preferences: Key Bindings"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"settings",
+						"Preferences: Settings"
+					],
+					[
+						"prefere",
+						"Preferences: Settings"
+					],
+					[
+						"install pack",
+						"Package Control: Install Package"
+					],
+					[
+						"selec theme",
+						"UI: Select Theme"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 198.0,
+				"history":
+				[
+					"sublime.exit()",
+					"exit()",
+					"exit",
+					"sublime.log_input(True)",
+					"sublime.log_commands(True)",
+					"sublime.log(True)",
+					"build",
+					"ls",
+					"echo \"\"",
+					"echo"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/mnt/Local_Disk_F/Competitive-Programming",
+				"/mnt/Local_Disk_F/Competitive-Programming/AlgoZenith",
+				"/mnt/Local_Disk_F/Competitive-Programming/AlgoZenith/Module 0",
+				"/mnt/Local_Disk_F/Competitive-Programming/AlgoZenith/Module 1 Week 2",
+				"/mnt/Local_Disk_F/Competitive-Programming/Competitive Programming"
+			],
+			"file_history":
+			[
+				"/mnt/Local_Disk_F/Competitive-Programming/AlgoZenith/Module 1 Week 2/Consecutive One.cpp",
+				"/home/vibhu/.config/sublime-text/Packages/User/default_layout.py",
+				"/home/vibhu/.config/sublime-text/Packages/User/C++14_CP.sublime-build",
+				"/mnt/Local_Disk_F/Competitive-Programming/Competitive Programming/A.cpp",
+				"/mnt/Local_Disk_F/Competitive-Programming/Competitive Programming/A2.cpp",
+				"/mnt/Local_Disk_F/Competitive-Programming/Competitive Programming/output.txt",
+				"/mnt/Local_Disk_F/Competitive-Programming/Competitive Programming/input.txt",
+				"/mnt/Local_Disk_F/Competitive-Programming/DSA/Dynamic Programming/output.txt",
+				"/mnt/Local_Disk_F/Competitive-Programming/DSA/Dynamic Programming/input.txt",
+				"/mnt/Local_Disk_F/Competitive-Programming/DSA/Dynamic Programming/Subset Sum.cpp",
+				"/mnt/Local_Disk_F/Competitive-Programming/DSA/Dynamic Programming/Knapsack.cpp",
+				"/mnt/Local_Disk_F/Competitive-Programming/DSA/Dynamic Programming/Equal Partition.cpp",
+				"/home/vibhu/.config/sublime-text/Packages/User/base_az.sublime-snippet",
+				"/home/vibhu/.config/sublime-text/Packages/User/advanced_algozenith.sublime-snippet",
+				"/mnt/Local_Disk_F/Competitive-Programming/AlgoZenith/input.txt",
+				"/mnt/Local_Disk_F/Competitive-Programming/AlgoZenith/output.txt",
+				"/mnt/Local_Disk_F/Competitive-Programming/AlgoZenith/A.cpp",
+				"/home/vibhu/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+				"/home/vibhu/.config/sublime-text/Packages/User/Package Control.sublime-settings",
+				"/home/vibhu/.config/sublime-text/Packages/User/CPP.sublime-build",
+				"/mnt/Local_Disk_F/Competitive-Programming/AlgoZenith/output.tx",
+				"/mnt/Local_Disk_F/Competitive-Programming/AlgoZenith/Module 0/Mixed Practice/Distinct Characters.cpp",
+				"/mnt/Local_Disk_F/Competitive-Programming/AlgoZenith/Module 0/Mixed Practice/Concatenate Array.cpp"
+			],
+			"find":
+			{
+				"height": 39.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"int"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"ll"
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/mnt/Local_Disk_F/Competitive-Programming"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/mnt/Local_Disk_F/Competitive-Programming/AlgoZenith/Module 1 Week 2/input.txt",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 126,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										126,
+										126
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/mnt/Local_Disk_F/Competitive-Programming/AlgoZenith/Module 1 Week 2/output.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 11,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										11,
+										11
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 39.0
+			},
+			"input":
+			{
+				"height": 43.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 126.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/C++14_CP.sublime-build",
+			"position": "0,1,0,0,0,1920,0,3840,1007,3840,1080,0",
+			"project": "",
+			"replace":
+			{
+				"height": 74.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 285.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
